@@ -3,7 +3,7 @@ Responsible for storing all information about the current state of the chess gam
 Responsible for determining valid moves at the current state and keep a move log.
 """
 
-
+#From the other computer
 class GameState():
     def __init__(self):
         # board is 8x8 2d list, each element of the list contains 2 characters
